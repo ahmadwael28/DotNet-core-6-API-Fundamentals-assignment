@@ -1,0 +1,22 @@
+D:\.net projects\EF core assignment\Inventory Manager\InventoryDomain\bin\Debug\net6.0\InventoryDomain.deps.json
+D:\.net projects\EF core assignment\Inventory Manager\InventoryDomain\bin\Debug\net6.0\InventoryDomain.dll
+D:\.net projects\EF core assignment\Inventory Manager\InventoryDomain\bin\Debug\net6.0\InventoryDomain.pdb
+D:\.net projects\EF core assignment\Inventory Manager\InventoryDomain\obj\Debug\net6.0\InventoryDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net projects\EF core assignment\Inventory Manager\InventoryDomain\obj\Debug\net6.0\InventoryDomain.AssemblyInfoInputs.cache
+D:\.net projects\EF core assignment\Inventory Manager\InventoryDomain\obj\Debug\net6.0\InventoryDomain.AssemblyInfo.cs
+D:\.net projects\EF core assignment\Inventory Manager\InventoryDomain\obj\Debug\net6.0\InventoryDomain.csproj.CoreCompileInputs.cache
+D:\.net projects\EF core assignment\Inventory Manager\InventoryDomain\obj\Debug\net6.0\InventoryDomain.dll
+D:\.net projects\EF core assignment\Inventory Manager\InventoryDomain\obj\Debug\net6.0\refint\InventoryDomain.dll
+D:\.net projects\EF core assignment\Inventory Manager\InventoryDomain\obj\Debug\net6.0\InventoryDomain.pdb
+D:\.net projects\EF core assignment\Inventory Manager\InventoryDomain\obj\Debug\net6.0\ref\InventoryDomain.dll
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InventoryDomain\bin\Debug\net6.0\InventoryDomain.deps.json
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InventoryDomain\bin\Debug\net6.0\InventoryDomain.dll
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InventoryDomain\bin\Debug\net6.0\InventoryDomain.pdb
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InventoryDomain\obj\Debug\net6.0\InventoryDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InventoryDomain\obj\Debug\net6.0\InventoryDomain.AssemblyInfoInputs.cache
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InventoryDomain\obj\Debug\net6.0\InventoryDomain.AssemblyInfo.cs
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InventoryDomain\obj\Debug\net6.0\InventoryDomain.csproj.CoreCompileInputs.cache
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InventoryDomain\obj\Debug\net6.0\InventoryDomain.dll
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InventoryDomain\obj\Debug\net6.0\refint\InventoryDomain.dll
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InventoryDomain\obj\Debug\net6.0\InventoryDomain.pdb
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InventoryDomain\obj\Debug\net6.0\ref\InventoryDomain.dll

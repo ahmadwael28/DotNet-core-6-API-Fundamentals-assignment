@@ -1,0 +1,34 @@
+D:\.net projects\EF core assignment\Inventory Manager\InverntoryData\bin\Debug\net6.0\InverntoryData.deps.json
+D:\.net projects\EF core assignment\Inventory Manager\InverntoryData\bin\Debug\net6.0\InverntoryData.runtimeconfig.json
+D:\.net projects\EF core assignment\Inventory Manager\InverntoryData\bin\Debug\net6.0\InverntoryData.dll
+D:\.net projects\EF core assignment\Inventory Manager\InverntoryData\bin\Debug\net6.0\InverntoryData.pdb
+D:\.net projects\EF core assignment\Inventory Manager\InverntoryData\bin\Debug\net6.0\InventoryDomain.dll
+D:\.net projects\EF core assignment\Inventory Manager\InverntoryData\bin\Debug\net6.0\InventoryDomain.pdb
+D:\.net projects\EF core assignment\Inventory Manager\InverntoryData\obj\Debug\net6.0\InverntoryData.csproj.AssemblyReference.cache
+D:\.net projects\EF core assignment\Inventory Manager\InverntoryData\obj\Debug\net6.0\InverntoryData.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net projects\EF core assignment\Inventory Manager\InverntoryData\obj\Debug\net6.0\InverntoryData.AssemblyInfoInputs.cache
+D:\.net projects\EF core assignment\Inventory Manager\InverntoryData\obj\Debug\net6.0\InverntoryData.AssemblyInfo.cs
+D:\.net projects\EF core assignment\Inventory Manager\InverntoryData\obj\Debug\net6.0\InverntoryData.csproj.CoreCompileInputs.cache
+D:\.net projects\EF core assignment\Inventory Manager\InverntoryData\obj\Debug\net6.0\InverntoryData.csproj.CopyComplete
+D:\.net projects\EF core assignment\Inventory Manager\InverntoryData\obj\Debug\net6.0\InverntoryData.dll
+D:\.net projects\EF core assignment\Inventory Manager\InverntoryData\obj\Debug\net6.0\refint\InverntoryData.dll
+D:\.net projects\EF core assignment\Inventory Manager\InverntoryData\obj\Debug\net6.0\InverntoryData.pdb
+D:\.net projects\EF core assignment\Inventory Manager\InverntoryData\obj\Debug\net6.0\InverntoryData.genruntimeconfig.cache
+D:\.net projects\EF core assignment\Inventory Manager\InverntoryData\obj\Debug\net6.0\ref\InverntoryData.dll
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InverntoryData\bin\Debug\net6.0\InverntoryData.deps.json
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InverntoryData\bin\Debug\net6.0\InverntoryData.runtimeconfig.json
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InverntoryData\bin\Debug\net6.0\InverntoryData.dll
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InverntoryData\bin\Debug\net6.0\InverntoryData.pdb
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InverntoryData\bin\Debug\net6.0\InventoryDomain.dll
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InverntoryData\bin\Debug\net6.0\InventoryDomain.pdb
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InverntoryData\obj\Debug\net6.0\InverntoryData.csproj.AssemblyReference.cache
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InverntoryData\obj\Debug\net6.0\InverntoryData.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InverntoryData\obj\Debug\net6.0\InverntoryData.AssemblyInfoInputs.cache
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InverntoryData\obj\Debug\net6.0\InverntoryData.AssemblyInfo.cs
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InverntoryData\obj\Debug\net6.0\InverntoryData.csproj.CoreCompileInputs.cache
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InverntoryData\obj\Debug\net6.0\InverntoryData.csproj.CopyComplete
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InverntoryData\obj\Debug\net6.0\InverntoryData.dll
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InverntoryData\obj\Debug\net6.0\refint\InverntoryData.dll
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InverntoryData\obj\Debug\net6.0\InverntoryData.pdb
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InverntoryData\obj\Debug\net6.0\InverntoryData.genruntimeconfig.cache
+D:\.net projects\DotNet core 6 API Fundamentals assignment\Inventory Manager Web Service\InverntoryData\obj\Debug\net6.0\ref\InverntoryData.dll
